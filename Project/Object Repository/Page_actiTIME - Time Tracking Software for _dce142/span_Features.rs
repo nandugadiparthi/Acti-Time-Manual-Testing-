@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Features</name>
+   <tag></tag>
+   <elementGuidId>91c9d455-3e52-4b38-bda8-d104f73b226c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.header__li.header__li--parent > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>73c845a6-7250-48e6-b19d-fa12a3607ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Features</value>
+      <webElementGuid>d9088afb-039c-4dcd-94aa-9c2f790a87e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__inner&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header-menues&quot;]/div[@class=&quot;header__menu-wrap&quot;]/ul[@class=&quot;header__menu&quot;]/li[@class=&quot;header__li header__li--parent&quot;]/span[1]</value>
+      <webElementGuid>5fe30d84-352f-471e-8ea1-f38703cb7a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/ul/li/span</value>
+      <webElementGuid>4f8b373b-865e-4d82-9b52-ee874c9eda69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep an accurate track of your online activities with our Time Management Assistant >>>'])[1]/following::span[1]</value>
+      <webElementGuid>90b31c42-f4b4-413c-9aa6-e110e64282ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[1]/following::span[1]</value>
+      <webElementGuid>58e9c411-fc8d-4c85-a857-d174d2109439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Tracking'])[1]/preceding::span[1]</value>
+      <webElementGuid>2054ec3a-6acd-461a-8755-06a88108847e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports &amp; Data Analysis'])[1]/preceding::span[1]</value>
+      <webElementGuid>f5fffd32-a3e1-499d-96d2-55f13fc1a3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Features']/parent::*</value>
+      <webElementGuid>2b92b9c7-a600-4fd1-9b7b-816c0d42aee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>37036ea7-23ba-4068-809a-f609a6c9c837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Features' or . = 'Features')]</value>
+      <webElementGuid>5d6be5f3-1517-47fa-b1d7-64aa1c292ecd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

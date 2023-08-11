@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time Tracking</name>
+   <tag></tag>
+   <elementGuidId>1fe5de13-1daf-4546-860c-75987f5bf8c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[3]/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.header > div.header-submenu > div.header-submenu__features > div.header-submenu__items > a.header-submenu__item--time-tracking > div.header-submenu__item > div.header-submenu__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba427b3b-905e-4261-b7c8-0cf8fdd503cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-submenu__link</value>
+      <webElementGuid>e923a6bd-227f-4290-be9d-c6357834a349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time Tracking</value>
+      <webElementGuid>4be52cf5-c7da-4756-a603-f18b78b9182c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-submenu&quot;]/div[@class=&quot;header-submenu__features&quot;]/div[@class=&quot;header-submenu__items&quot;]/a[@class=&quot;header-submenu__item--time-tracking&quot;]/div[@class=&quot;header-submenu__item&quot;]/div[@class=&quot;header-submenu__link&quot;]</value>
+      <webElementGuid>cb64c6f4-11dc-4ca7-9125-6241abfc2f32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[3]/div/div/a/div/div</value>
+      <webElementGuid>114ebb4a-deaf-43eb-853c-b664d1d147ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all guides and resources'])[6]/following::div[19]</value>
+      <webElementGuid>5a9da16b-4c08-45dc-9d2d-5d5eed94d533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For E-commerce'])[6]/following::div[33]</value>
+      <webElementGuid>f261d862-5bd5-4c51-8d5b-ef868460cac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports &amp; Data Analysis'])[7]/preceding::div[1]</value>
+      <webElementGuid>42d2cc29-cdaa-43d7-bb11-39323b7b3286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Tracking'])[7]/preceding::div[3]</value>
+      <webElementGuid>bf59d4ae-d7ca-4c04-b176-50af70791f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/div/div</value>
+      <webElementGuid>f384208a-d3f7-4b4e-9127-fb5bf93fe504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time Tracking' or . = 'Time Tracking')]</value>
+      <webElementGuid>8ec6e57c-4722-4c0d-96b4-d5358b3df4cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

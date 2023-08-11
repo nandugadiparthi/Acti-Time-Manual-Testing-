@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lets Go</name>
+   <tag></tag>
+   <elementGuidId>e76429c5-27bb-4941-a0e2-ffaf48ca74f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#confirm-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='confirm-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f7c79f30-6f03-40f1-a807-1e7c3cfa54a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>confirm-button</value>
+      <webElementGuid>c867ffe1-e161-43ee-8ff6-71c88f4bfeea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button start-trial__confirm-button start-trial__confirm-button--active</value>
+      <webElementGuid>7b956671-8680-477a-be83-408bbb50bc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Let's Go</value>
+      <webElementGuid>075d30e8-b210-4978-b247-c16d09ef8dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirm-button&quot;)</value>
+      <webElementGuid>ec26160b-3b1c-436f-b468-6dfd9500f6f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='confirm-button']</value>
+      <webElementGuid>57abb472-a0a2-42fd-b1a1-f29e1901b90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/div/div/div/div[3]/a</value>
+      <webElementGuid>aa1ffa41-b3de-4928-a8b5-744c35c3c18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::a[1]</value>
+      <webElementGuid>358a9b23-a379-4507-b7e1-6ad74b3f0ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::a[1]</value>
+      <webElementGuid>f8a19d82-618d-4956-9e74-84e8b686ede5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Agreement'])[1]/preceding::a[1]</value>
+      <webElementGuid>12efdd98-31a7-4ed2-8111-5353b4763aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Processing Agreement'])[1]/preceding::a[2]</value>
+      <webElementGuid>2caf31dc-58dc-44c5-9cec-baad88b7823a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>9effc583-fb12-4eb4-b64f-4f08a94767f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'confirm-button' and (text() = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s Go&quot;) or . = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s Go&quot;))]</value>
+      <webElementGuid>43f70448-14ef-44da-913b-019084f9f5e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

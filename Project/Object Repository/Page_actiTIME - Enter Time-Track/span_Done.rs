@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Done</name>
+   <tag></tag>
+   <elementGuidId>8db0ce4a-80d6-4626-89d9-1ce98acb7aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='127']/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.components-StatusSelector-StatusLabel-statusLabel--342pSSMv.components-StatusSelector-StatusLabel-violet--3weMOM5m > span.components-TruncatedText-truncatedText--1iVivIkq > span.components-StatusSelector-StatusLabel-name--3OPLDIGc.components-TruncatedText-oneLine--Jmk2Gxm5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f18990c-b2ce-475f-a584-234e87b3cd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>components-StatusSelector-StatusLabel-name--3OPLDIGc components-TruncatedText-oneLine--Jmk2Gxm5</value>
+      <webElementGuid>43b12c06-f1c3-44ee-9f11-64811092265c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>39766967-d81c-4aea-9354-c1aa3b9f7c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;127&quot;)/div[@class=&quot;containers-EnterTT-ETTTimesheet-TasksSection-RecordTaskSection-taskSection--22n2iGQG undefined&quot;]/div[@class=&quot;components-Dropdown-trigger--1w6PGjU6 containers-EnterTT-ETTTimesheet-TasksSection-StatusCell-trigger--3WoKihL_&quot;]/div[@class=&quot;components-TableCell-tableCell--Ot35iU8P containers-EnterTT-ETTTimesheet-TasksSection-StatusCell-statusCell--13irMF64 containers-EnterTT-ETTTimesheet-TasksSection-StatusCell-withStatusName--2qADvfyW&quot;]/div[@class=&quot;components-StatusSelector-statusSelector--2-RR5Tft&quot;]/div[@class=&quot;components-PopupWrapper-popup--q_WJegMT components-Dropdown-dropdownPopup--3o-HLxx4&quot;]/div[1]/div[@class=&quot;components-StatusSelector-content--3LnMejEC components-StatusSelector-withCategories--2yPsGyvS&quot;]/div[@class=&quot;ScrollbarsCustom&quot;]/div[@class=&quot;ScrollbarsCustom-Wrapper&quot;]/div[1]/div[@class=&quot;ScrollbarsCustom-Content components-StatusSelector-listCard--ow-_MxhV&quot;]/div[@class=&quot;components-StatusSelector-StatusList-container--1L5qvdC0&quot;]/div[@class=&quot;components-StatusSelector-StatusItem-statusItem--2V7nYOEk&quot;]/div[@class=&quot;components-StatusSelector-StatusLabel-statusLabel--342pSSMv components-StatusSelector-StatusLabel-violet--3weMOM5m&quot;]/span[@class=&quot;components-TruncatedText-truncatedText--1iVivIkq&quot;]/span[@class=&quot;components-StatusSelector-StatusLabel-name--3OPLDIGc components-TruncatedText-oneLine--Jmk2Gxm5&quot;]</value>
+      <webElementGuid>0cd411ec-51a7-4a1b-be1b-523f1eab42ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='127']/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/span/span</value>
+      <webElementGuid>82d0e925-6459-4763-af41-d10042e646db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed tasks'])[1]/following::span[2]</value>
+      <webElementGuid>495afddf-8fef-4a86-80bb-5d33c0098cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review'])[1]/following::span[2]</value>
+      <webElementGuid>f59482a1-d602-4051-ac82-ebcab9ce78a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Won', &quot;'&quot;, 't do')])[1]/preceding::span[1]</value>
+      <webElementGuid>ebd6bf5a-ea39-46f6-a525-db3f24a838f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calls'])[1]/preceding::span[3]</value>
+      <webElementGuid>70e3b92d-cc9b-46b4-b874-83fbd85d63c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Done']/parent::*</value>
+      <webElementGuid>f45241fe-dfac-4c24-a442-094e11a36f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/span</value>
+      <webElementGuid>978e872f-547c-424b-84a3-84ad4f17d162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>a9cacc39-29de-41d1-bdbe-50cea0da9aa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

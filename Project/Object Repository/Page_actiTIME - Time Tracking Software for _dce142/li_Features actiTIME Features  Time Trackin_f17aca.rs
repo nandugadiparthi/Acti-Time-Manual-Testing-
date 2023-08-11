@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Features actiTIME Features  Time Trackin_f17aca</name>
+   <tag></tag>
+   <elementGuidId>9b928b14-c1b2-4040-b298-cf7b6821441b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.header__li.header__li--parent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5f7df039-8698-4842-9e03-7ea55e6cf49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__li header__li--parent</value>
+      <webElementGuid>313a51cf-00ab-4db0-9c1c-896b805a7850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Features actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist See how actiTIME works for  Architecture Consulting Design IT Education Engineering Healthcare Small Business Case Studies   See all industries  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Knowledge Base  User Guide How-to Videos Admin Guide FAQ API Guide actiTIME Tips  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Guides by Topic  Time Tracking Project Costs Remote Work Overtime Time Estimation Software Collections Time Management Productivity People Management Guides by Industries  For Developers For Architects For Marketers For Schools For E-commerce Business Resources  E-Book  Business Templates  Overtime Calculator  Time Trackers' List  Quizes  Project Management  Time Management    See all guides and resources</value>
+      <webElementGuid>72f2be22-da21-4700-b9a6-ae02bde14b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__inner&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header-menues&quot;]/div[@class=&quot;header__menu-wrap&quot;]/ul[@class=&quot;header__menu&quot;]/li[@class=&quot;header__li header__li--parent&quot;]</value>
+      <webElementGuid>fa1499ac-a4f6-430b-9743-a1430f7f953b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/ul/li</value>
+      <webElementGuid>9bd29654-d26c-4075-b519-9d32d9aaf21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep an accurate track of your online activities with our Time Management Assistant >>>'])[1]/following::li[1]</value>
+      <webElementGuid>c3eaeac1-668f-45f3-a62d-73777c5c7d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[1]/following::li[1]</value>
+      <webElementGuid>c07fd156-8e36-440b-a4aa-9031c43b0f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>e5d23387-4a79-44a4-9fc2-75fde1d42e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Features actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist See how actiTIME works for  Architecture Consulting Design IT Education Engineering Healthcare Small Business Case Studies   See all industries  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Knowledge Base  User Guide How-to Videos Admin Guide FAQ API Guide actiTIME Tips  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Guides by Topic  Time Tracking Project Costs Remote Work Overtime Time Estimation Software Collections Time Management Productivity People Management Guides by Industries  For Developers For Architects For Marketers For Schools For E-commerce Business Resources  E-Book  Business Templates  Overtime Calculator  Time Trackers&quot; , &quot;'&quot; , &quot; List  Quizes  Project Management  Time Management    See all guides and resources&quot;) or . = concat(&quot;Features actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist See how actiTIME works for  Architecture Consulting Design IT Education Engineering Healthcare Small Business Case Studies   See all industries  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Knowledge Base  User Guide How-to Videos Admin Guide FAQ API Guide actiTIME Tips  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist Guides by Topic  Time Tracking Project Costs Remote Work Overtime Time Estimation Software Collections Time Management Productivity People Management Guides by Industries  For Developers For Architects For Marketers For Schools For E-commerce Business Resources  E-Book  Business Templates  Overtime Calculator  Time Trackers&quot; , &quot;'&quot; , &quot; List  Quizes  Project Management  Time Management    See all guides and resources&quot;))]</value>
+      <webElementGuid>be19ccd8-fdab-428c-9c80-2f7542a7768f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

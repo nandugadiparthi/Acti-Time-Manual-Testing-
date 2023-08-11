@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_actiTIME Features  Time Tracking Report_b0e345</name>
+   <tag></tag>
+   <elementGuidId>df3cab26-a855-404a-8099-4f7735291249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.header > div.header-submenu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cf6a253-0048-4562-aa40-bf536c035be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-submenu</value>
+      <webElementGuid>d4d008ac-7478-4d00-8863-a72c1b601866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist</value>
+      <webElementGuid>e84a71a2-ed8d-4053-a31a-ebec6ef9f480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-submenu&quot;]</value>
+      <webElementGuid>959416f6-48d2-4577-a8c5-b114ce38a294</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[3]</value>
+      <webElementGuid>eca06773-bf20-45fa-a007-93a3a5336e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all guides and resources'])[6]/following::div[15]</value>
+      <webElementGuid>5bd98424-2e13-4acd-88f0-de374a0dc723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For E-commerce'])[6]/following::div[29]</value>
+      <webElementGuid>c772489b-5d45-4e7d-b8d7-5312fbdf0670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div[3]</value>
+      <webElementGuid>aa018ad7-6330-4c8a-8c4f-12709e3e671c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist' or . = 'actiTIME Features  Time Tracking Reports &amp; Data Analysis Project Tracking Customer Care Billing &amp; Invoicing Team Management Workflow Integrations  Product Datashseet PDF See all features  Sign up for a free trial Capture advantages of smart time tracking with a free trial Request a demo Arrange a guided product tour with an actiTIME expert Contact support Reach out to be assisted by a product specialist')]</value>
+      <webElementGuid>d9ce4bd7-9387-4399-aa7c-8b5a513a12ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

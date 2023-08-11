@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time Tracking Time tracker that works w_b86536</name>
+   <tag></tag>
+   <elementGuidId>45aaccb8-a78f-41e5-9460-b996fcc63bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.full-width-wrapper.feature</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>498b1888-6f90-4c53-8684-294a6a8ae48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full-width-wrapper feature</value>
+      <webElementGuid>990217ef-2b3f-41a6-93d2-0c8d976e3e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time Tracking Time tracker that works wherever you are Capture time manually or automatically right in the browser or using the mobile app  Web timesheet Track time in online timesheet. Pick a task from the list, record time against it and leave comments to notify your manager or clients of the work details.   Calendar view  Mobile app  Chrome extension   Ready to get started with actiTIME? Start Free Trial More about actiTIME: Reports &amp; Data Analysis  Ready to bring your businessto the next level? Start Using actiTIME Still not sure if actiTIME will make a good fit for your business?Let us save your time with a 15-minute product tour. </value>
+      <webElementGuid>47535fa4-9c03-4c8f-83d5-d8b414206144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/div[@class=&quot;default-layout&quot;]/div[@class=&quot;full-width-wrapper feature&quot;]</value>
+      <webElementGuid>0827c69a-1656-4bec-b8c4-b8ea16c380ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/div/div</value>
+      <webElementGuid>f83f5a2a-34d1-4e7b-977b-a63f0ef32b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all guides and resources'])[7]/following::div[2]</value>
+      <webElementGuid>7282f4f8-44fc-4dec-893c-488739a66e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For E-commerce'])[7]/following::div[16]</value>
+      <webElementGuid>a3f8f237-4cba-40d5-9157-ee39ee6089da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>f0343df0-6585-4866-8abe-e41c8a260cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time Tracking Time tracker that works wherever you are Capture time manually or automatically right in the browser or using the mobile app  Web timesheet Track time in online timesheet. Pick a task from the list, record time against it and leave comments to notify your manager or clients of the work details.   Calendar view  Mobile app  Chrome extension   Ready to get started with actiTIME? Start Free Trial More about actiTIME: Reports &amp; Data Analysis  Ready to bring your businessto the next level? Start Using actiTIME Still not sure if actiTIME will make a good fit for your business?Let us save your time with a 15-minute product tour. ' or . = 'Time Tracking Time tracker that works wherever you are Capture time manually or automatically right in the browser or using the mobile app  Web timesheet Track time in online timesheet. Pick a task from the list, record time against it and leave comments to notify your manager or clients of the work details.   Calendar view  Mobile app  Chrome extension   Ready to get started with actiTIME? Start Free Trial More about actiTIME: Reports &amp; Data Analysis  Ready to bring your businessto the next level? Start Using actiTIME Still not sure if actiTIME will make a good fit for your business?Let us save your time with a 15-minute product tour. ')]</value>
+      <webElementGuid>39b44659-c51e-435b-9b8c-348e2a30b18c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

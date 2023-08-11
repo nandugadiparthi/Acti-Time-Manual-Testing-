@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Try Free</name>
+   <tag></tag>
+   <elementGuidId>b68f38c3-dd1f-49b8-a3f8-b1e4158e47b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.header__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>54358564-362b-4843-bcb3-4324157140bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/free-online-trial</value>
+      <webElementGuid>c26f9405-ae3a-42dd-abe7-bf63c43834e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button header__button</value>
+      <webElementGuid>45fc58d9-cc82-4b9d-8239-c1db9394e909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try Free</value>
+      <webElementGuid>6096d4e0-dc66-43fc-8a35-f4c20d447b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__inner&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header-menues&quot;]/div[@class=&quot;header__menu-wrap&quot;]/div[@class=&quot;header__buttons&quot;]/a[@class=&quot;button header__button&quot;]</value>
+      <webElementGuid>cac17a75-a572-4051-9f36-d0d801b9221a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/div/a[2]</value>
+      <webElementGuid>73529a20-8546-4e5b-b700-29fc8ba5c96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Try Free')]</value>
+      <webElementGuid>8e8c961f-307e-4d08-9f84-f50cdcd0f27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::a[1]</value>
+      <webElementGuid>7229b26d-3751-41e7-9d76-a8284fb5c9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all guides and resources'])[5]/following::a[2]</value>
+      <webElementGuid>8468ccaa-dbbc-428d-9562-9312b088cea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Tracking'])[11]/preceding::a[1]</value>
+      <webElementGuid>8c463a1a-f7a7-4be8-a095-b6fa85565370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports &amp; Data Analysis'])[6]/preceding::a[2]</value>
+      <webElementGuid>112ae699-dcd6-4fe5-855d-4e77dcf67f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try Free']/parent::*</value>
+      <webElementGuid>2f1f1c75-a217-40a7-ac2c-9858f55c18ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/free-online-trial')])[16]</value>
+      <webElementGuid>2df29ad9-85c7-43ae-861d-a7d23255d061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>8d8c457b-484f-4f87-a0c7-ced9c3d1aba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/free-online-trial' and (text() = 'Try Free' or . = 'Try Free')]</value>
+      <webElementGuid>de367af3-3e90-4ba6-bf12-0819fd6817f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

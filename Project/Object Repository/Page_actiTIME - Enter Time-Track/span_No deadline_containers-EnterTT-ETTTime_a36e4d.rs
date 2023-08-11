@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No deadline_containers-EnterTT-ETTTime_a36e4d</name>
+   <tag></tag>
+   <elementGuidId>10d40ddc-5c55-4692-b68c-f883db9288a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='127']/div[2]/div[3]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-readOnly--3C2rnQKF.containers-EnterTT-ETTTimesheet-ReadOnlyCellValue-readOnly--2Swdbv7A</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef71a0d3-9ca7-4cbc-a658-092dd02f13c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-readOnly--3C2rnQKF containers-EnterTT-ETTTimesheet-ReadOnlyCellValue-readOnly--2Swdbv7A</value>
+      <webElementGuid>c3210f42-6b80-4612-9741-575cd233dcc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;127&quot;)/div[@class=&quot;containers-EnterTT-ETTTimesheet-TasksSection-RecordDaysSection-timeSection--1e5l-_Xh&quot;]/div[@class=&quot;components-TableCell-tableCell--Ot35iU8P containers-EnterTT-ETTTimesheet-TTCell-ttCell--19clds4b containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-timeCell--1KgpeVk2 containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-readOnly--3C2rnQKF&quot;]/div[@class=&quot;containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-inputWrapper--35FAaz_S&quot;]/div[@class=&quot;components-Dropdown-trigger--1w6PGjU6 containers-EnterTT-ETTTimesheet-ReadOnlyCellValue-trigger--3FyIZXb_&quot;]/span[@class=&quot;containers-EnterTT-ETTTimesheet-TasksSection-TimeCell-readOnly--3C2rnQKF containers-EnterTT-ETTTimesheet-ReadOnlyCellValue-readOnly--2Swdbv7A&quot;]</value>
+      <webElementGuid>1f368ee3-b9b3-4e58-85f8-c8de2b316373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='127']/div[2]/div[3]/div/div/span</value>
+      <webElementGuid>e62922ae-1b39-407b-9659-bdc33e7054aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[3]/div/div/span</value>
+      <webElementGuid>45f26a4a-88c7-4567-aa7e-eb7d6912814b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Calls (already added)</name>
+   <tag></tag>
+   <elementGuidId>5b1124c0-c0f8-435d-a75e-7969fcf8bd55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='atNextAppRoot']/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.components-TaskItem-title--2gs-1Q_m.components-TaskItem-alreadyAdded--36c4bEdN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09e92fac-fa0c-46ab-bd97-6e9ef4ddc58b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>components-TaskItem-title--2gs-1Q_m components-TaskItem-alreadyAdded--36c4bEdN</value>
+      <webElementGuid>88081d66-09ae-4d6a-a9e2-502eea38fbef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calls (already added)</value>
+      <webElementGuid>e0629a60-92e4-41aa-92a5-82e46da89256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;atNextAppRoot&quot;)/div[@class=&quot;containers-EnterTT-entertt---VveRP30 containers-EnterTT-calendar--3f4ekZYt&quot;]/div[@class=&quot;containers-EnterTT-timesheetControls--1vxzPCwE containers-EnterTT-table--aosIocub&quot;]/div[@class=&quot;containers-EnterTT-column--yn7lG-49 containers-EnterTT-taskSelector--3n6kIam5&quot;]/div[1]/div[@class=&quot;components-Autocomplete-autocomplete--2a5VF48S&quot;]/div[2]/div[@class=&quot;components-PopupWrapper-popup--q_WJegMT components-Autocomplete-content--28--wFvJ containers-EnterTT-ETTTaskSelector-popupContent--32cl3BoV&quot;]/div[@class=&quot;ScrollbarsCustom&quot;]/div[@class=&quot;ScrollbarsCustom-Wrapper&quot;]/div[1]/div[@class=&quot;ScrollbarsCustom-Content&quot;]/div[1]/div[@class=&quot;components-TaskItem-wrapper--2UFEfEz6 components-TaskItem-selected--2qEKk3Ap containers-EnterTT-ETTTaskSelector-task--1qIXNW9m&quot;]/div[@class=&quot;components-TaskItem-title--2gs-1Q_m components-TaskItem-alreadyAdded--36c4bEdN&quot;]</value>
+      <webElementGuid>3878ba1e-a7e4-44c3-bedb-57a274e8ae95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='atNextAppRoot']/div/div[3]/div/div/div/div[2]/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>24bbc617-f8be-41f6-b93b-a2360288fe8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales'])[1]/following::div[2]</value>
+      <webElementGuid>3b2a214b-e0f8-49c4-a1de-1ed69e5f94ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::div[2]</value>
+      <webElementGuid>48239da6-748c-4a78-84bb-af482e7f3947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>f3198c19-8a98-47c0-8f4b-2a4781530412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Calls (already added)' or . = 'Calls (already added)')]</value>
+      <webElementGuid>68f7aae0-427f-459b-bf46-786378d06526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

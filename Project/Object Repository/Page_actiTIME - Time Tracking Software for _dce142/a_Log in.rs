@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log in</name>
+   <tag></tag>
+   <elementGuidId>57bce7bd-c224-4360-8a3f-cf37be089115</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.header__login-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0df0608-ba88-459c-8c9b-a5754b90e538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login-to-product</value>
+      <webElementGuid>e9fd2f6f-9995-440d-8667-bbbfb88e40d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button header__login-button</value>
+      <webElementGuid>d1310a41-559c-4ddc-aa73-96bf0ec52ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>1ee97147-8fab-4392-be3c-9c7a25e41c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;my-app&quot;)/section[@class=&quot;header-wrap&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header__inner&quot;]/div[@class=&quot;header__container&quot;]/div[@class=&quot;header-menues&quot;]/div[@class=&quot;header__menu-wrap&quot;]/div[@class=&quot;header__buttons&quot;]/a[@class=&quot;button header__login-button&quot;]</value>
+      <webElementGuid>0fc3fcc8-8729-412e-9b54-a6832630674d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='my-app']/section/header/div[2]/div/div[2]/div/div/a</value>
+      <webElementGuid>e5699471-32ab-433e-8b6b-74d0f7648765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log in')]</value>
+      <webElementGuid>b97bb4a2-cf8e-41bf-b25c-14e46798de63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all guides and resources'])[5]/following::a[1]</value>
+      <webElementGuid>a1f9af9f-1fb6-449e-832d-ecdf1bf809ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For E-commerce'])[5]/following::a[8]</value>
+      <webElementGuid>b0a7394b-d701-46e9-8e28-bff7934e23ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try Free'])[1]/preceding::a[1]</value>
+      <webElementGuid>dda736d9-78b3-4187-98af-fc2938c616ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Tracking'])[11]/preceding::a[2]</value>
+      <webElementGuid>36f00983-d96c-46eb-8404-e4efe15c3845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>955eaa0e-bc15-40b1-9730-ab3cd59d5b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login-to-product')]</value>
+      <webElementGuid>9c933430-d366-48a1-b9f9-54721fef4e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/a</value>
+      <webElementGuid>2414ca2c-1437-4c36-9783-fd54e0140454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login-to-product' and (text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>eb92f2ff-d7e5-41a9-996f-7335a10daf71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

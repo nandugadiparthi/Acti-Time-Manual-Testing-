@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Timesheet</name>
+   <tag></tag>
+   <elementGuidId>1278e2d7-a2fb-4a6e-bf14-d7ec8aa9b075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='atNextAppRoot']/div/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2201276e-144e-4d2c-b31f-8befa08d8f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>components-Buttons-button--2ZtATn8v components-Buttons-empty--UaRuPaP2 components-ToggleSelect-button--1DT1gBbK</value>
+      <webElementGuid>be3a6d77-bbf2-409e-9fc4-a6686ffd3b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Timesheet</value>
+      <webElementGuid>873f683c-6fc1-47e3-bda1-83e67af324c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;atNextAppRoot&quot;)/div[@class=&quot;containers-EnterTT-entertt---VveRP30 containers-EnterTT-calendar--3f4ekZYt&quot;]/div[@class=&quot;containers-EnterTT-header--1oBVkX2c&quot;]/div[@class=&quot;components-ToggleSelect-container--2Dj4Uz8M containers-EnterTT-viewSelector--2d8yEykv&quot;]/button[@class=&quot;components-Buttons-button--2ZtATn8v components-Buttons-empty--UaRuPaP2 components-ToggleSelect-button--1DT1gBbK&quot;]</value>
+      <webElementGuid>80f88b05-dcaf-48be-94fa-c0cace356d03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='atNextAppRoot']/div/div/div[2]/button[2]</value>
+      <webElementGuid>395bb3f4-0ab3-454b-9645-a9f7398ebfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/following::button[1]</value>
+      <webElementGuid>714f78dc-9a05-4faa-ade5-cd8c36f2f8c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Me'])[1]/following::button[2]</value>
+      <webElementGuid>261bc570-9202-40ae-9253-96e97d048a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time-Track of Nandhini, Gadiparthi'])[1]/preceding::button[1]</value>
+      <webElementGuid>12fcde49-a585-4181-b3cd-ad60c3e0c068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(-14:00)'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a0e5f6e-76aa-4d53-979b-e3354c397e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Timesheet']/parent::*</value>
+      <webElementGuid>c4d618c4-2429-4028-9719-46bf93ccab5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>b5afc99d-2d75-47e0-8ed4-0b105ad2d5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Timesheet' or . = 'Timesheet')]</value>
+      <webElementGuid>7feafa3c-c007-4328-8844-8e7d312ecbcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(-16:00)'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f9ebc91-dc8e-445f-8394-de0a8a708823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(8:10)'])[1]/preceding::button[1]</value>
+      <webElementGuid>82502001-d1ae-4c55-8336-0cbc653fc337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time-Track of Sireesha, Nidamanuri'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8f3a8f2-9dea-44f6-ae05-7e1c6ecf5ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(9:55)'])[1]/preceding::button[1]</value>
+      <webElementGuid>d4ed6184-d41f-47de-b89f-9b79e68bb001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(6:25)'])[1]/preceding::button[1]</value>
+      <webElementGuid>9364dcf9-21ed-4b6b-8e99-a95e7e05e05d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
